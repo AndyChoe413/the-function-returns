@@ -1,9 +1,23 @@
 /******************
  * YOUR CODE HERE *
  ******************/
+let greeting = 'Hello'
+let sum = 0
+let prod = 0
 
+const greet = string => greeting = `Hello ${string}`
 
+const sumOfTwo = (num1, num2) => sum = num1 + num2
 
+const multiply = (num1, num2, num3) => prod = num1 * num2 * num3
+
+const sayHi = fName => `Hello ${fName}!`
+
+const returnWhatISay = sentence => sentence
+
+const divide = (num1, num2) => num1 / num2
+
+const remainder = (num1,num2) => num1 % num2
 
 /*********************************************************************************************************************
 
